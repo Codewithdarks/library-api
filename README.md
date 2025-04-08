@@ -3,7 +3,7 @@
 A RESTful API for managing a library's book collection, built with Node.js, Express.js, and MongoDB.
 
 ## upate in package.json
-we have update "Scripts" in package.json where we added `start` and `seed` command
+I have update "Scripts" in package.json where we added `start` and `seed` command
 
 ## Installation and Setup
 
